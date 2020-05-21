@@ -43,8 +43,7 @@ project.
 
 ## mySociety.org Software Licensing
 
-Most of the software in this directory is Copyright (c) 2004-2019 UK
-Citizens Online Democracy.
+Most of the software in this directory is Copyright (c) 2004-2019 mySociety.
 
 Unless otherwise stated in particular files or directories, this
 software is free software; you can redistribute it and/or modify it
