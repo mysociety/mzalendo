@@ -52,7 +52,7 @@ requests==2.6.0
 elasticsearch==0.4.5
 django-haystack==2.6.1
 # Required (but not a declared requirement) of elasticsearch
-urllib3==1.24.2
+urllib3==1.26.5
 
 # Testing helpers
 django-nose==1.4.3
